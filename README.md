@@ -7,7 +7,7 @@ This is a java project that creates a random password of 16 characters. The poss
 IN order to use this, follow the installation guide to install the script. From there, you want to navigate in your command line interface to where the folder has installed. After you want to run '''javac Password.java''' This will compile the Password.java file and then from there all you have to do is run the file. To do this you need to run 
 
 ```bash 
-java Password.java
+javac Password.java
 ```` 
 and this will create a unique passwod. Once you have ran the javac command once, you will not need to run it again. Any time you need a password just run the 
 
